@@ -1,5 +1,0 @@
-kubectl apply -f my-pod.yml
-kubectl apply -f my-svc.yml
-kubectl get no
-kubectl get po
-kubectl get svc
